@@ -1,6 +1,6 @@
 # Survival_PUBG
 
-## Survival Analysis using Kaplan-Meier Estimate, Cox-proportional hazards (Cox-PH), Accelerated Failure Time (AFT) on Pubg Player Dataset.
+## Survival Analysis using Kaplan-Meier Estimate, Cox-proportional hazards (Cox-PH), Accelerated Failure Time (AFT) on Pubg Player Dataset with Spark.
 
 #### PUBG :"PlayerUnknown's Battlegrounds also known as PUBG is an online multiplayer game. 
 
