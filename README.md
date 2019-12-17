@@ -1,4 +1,4 @@
-# Survival_PUBG
+# Survival_PUBG_SparkR
 
 ## Survival Analysis using Kaplan-Meier Estimate, Cox-proportional hazards (Cox-PH), Accelerated Failure Time (AFT) on Pubg Player Dataset with Spark.
 
